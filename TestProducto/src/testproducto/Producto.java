@@ -82,6 +82,7 @@ public class Producto {
     public double getTipoIva() {
         return tipoIva;
     }
+    
 /**
  * Establece el precio minimo que va a tener un producto
  * @param precioMinimo cantidad minima de un precio
